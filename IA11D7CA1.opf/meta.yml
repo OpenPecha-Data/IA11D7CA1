@@ -1,0 +1,16 @@
+id: IA11D7CA1
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:50:21.832638
+last_modified: 2023-02-09 14:50:21.832747
+source_metadata:
+  title: 'PP: Ratnaguṇasaṃcayagāthā'
+  language: zh
+bases:
+  9A3A:
+    base_file: 9A3A.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
